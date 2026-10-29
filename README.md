@@ -1,5 +1,6 @@
 # Linux-IPC--Pipes
-Linux-IPC-Pipes
+## NAME: SHAJIVE KUMAR J 
+## REG NO: 212225230258
 
 
 # Ex03-Linux IPC - Pipes
@@ -203,7 +204,5 @@ void client() {
 ## OUTPUT
 <img width="607" height="337" alt="image" src="https://github.com/user-attachments/assets/76f836e8-a602-41e4-bff5-7ba893608cd6" />
 
-# RESULT:
-The program is executed successfully.
 # RESULT:
 The program is executed successfully.
